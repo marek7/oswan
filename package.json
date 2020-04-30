@@ -139,7 +139,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-template": "^5.0.0",
     "gulp-uglify": "^3.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vinyl-ftp": "^0.6.1"
   },
   "engines": {
